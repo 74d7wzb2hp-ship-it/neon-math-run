@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1788976881|54457976';
+const CACHE_VERSION = '1788977403|55749673';
 /** @type {string} */
 const CACHE_PREFIX = 'Neon Math Run-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
